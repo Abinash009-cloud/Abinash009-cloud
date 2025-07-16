@@ -44,10 +44,10 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/abinash009-cloud" target="blank">
+  <a href="www.linkedin.com/in/abinash-sahoo-42455425b" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
   </a>
-  <a href="mailto:abinash009.cloud@gmail.com">
+  <a href="mailto:sahooabinash0123@gmail.com">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
   </a>
 </p>
