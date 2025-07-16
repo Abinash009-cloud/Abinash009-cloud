@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **React projects**
 - 🌱 I’m currently learning **Firebase, TypeScript, and Redux**
 - 💬 Ask me about **React, Tailwind CSS, Vite, JavaScript**
-- 📫 How to reach me: **abinash009.cloud@gmail.com**
+- 📫 How to reach me: **sahooabinash0123@gmail.com**
 - ⚡ Fun fact: I love making UI animations and small design tweaks that stand out!
 
 ---
