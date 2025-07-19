@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abinash009-cloud&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinash009-cloud&theme=radical" width="48%" />
-   <img src="https://github-readme-stats.vercel.app/api?username=Abinash009-cloud&show_icons=true&theme=radical" alt="Abinash's GitHub stats" />
+   
 </p>
 
 ---
