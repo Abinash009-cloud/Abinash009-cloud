@@ -55,7 +55,7 @@
 
 ---
 
-### 🚀 Animated Banner (Optional)
+### 🚀
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Lover+%F0%9F%92%96;Building+Cool+UI%2FUX;Let's+collaborate!" />
